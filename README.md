@@ -41,7 +41,14 @@ streamlit run ipl_dashboard.py
 
 📸 Screenshots
 
-Add screenshots of your dashboard tabs here (Match Info, Stats, Visuals).
+### Match Info Tab  
+![Match Info](DashboardScreeshot-1.png)  
+
+### Team Stats Tab  
+![Team Stats](DashboardScreeshot-2.png)  
+
+### Visuals Tab  
+![Visuals](DashboardScreeshot-3.png)  
 
 🔮 Future Improvements
 
