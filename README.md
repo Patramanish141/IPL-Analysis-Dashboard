@@ -42,13 +42,13 @@ streamlit run ipl_dashboard.py
 📸 Screenshots
 
 ### Match Info Tab  
-![Match Info](DashboardScreeshot-1.png)  
+![Match Info](DashboardScreeshot-1.jpg)  
 
 ### Team Stats Tab  
-![Team Stats](DashboardScreeshot-2.png)  
+![Team Stats](DashboardScreeshot-2.jpg)  
 
 ### Visuals Tab  
-![Visuals](DashboardScreeshot-3.png)  
+![Visuals](DashboardScreeshot-3.jpg)  
 
 🔮 Future Improvements
 
